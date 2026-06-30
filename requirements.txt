@@ -1,0 +1,8 @@
+opencv-python
+mediapipe
+numpy
+matplotlib
+pandas
+flask
+flask-cors
+reportlab
