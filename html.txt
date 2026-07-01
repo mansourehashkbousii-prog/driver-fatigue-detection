@@ -1,0 +1,105 @@
+<html>
+<body>
+<table border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse; font-family: B Nazanin; font-size: 10pt;">
+ <tr bgcolor="#DDDDDD">
+  <th>ردیف</th>
+  <th>نام اول نویسنده</th>
+  <th>سال</th>
+  <th>مجله (Q)</th>
+  <th>نوع روش</th>
+  <th>دقت</th>
+  <th>پنج شرط</th>
+ </tr>
+ <tr>
+  <td>1</td>
+  <td>Kim</td>
+  <td>2024</td>
+  <td>IEEE Access (Q1)</td>
+  <td>CNN</td>
+  <td>97.0%</td>
+  <td>✅</td>
+ </tr>
+ <tr>
+  <td>2</td>
+  <td>Kumar</td>
+  <td>2025</td>
+  <td>IEEE T-ITS (Q1)</td>
+  <td>MobileNet</td>
+  <td>95.0%</td>
+  <td>✅</td>
+ </tr>
+ <tr>
+  <td>3</td>
+  <td>Rochit L.</td>
+  <td>2026</td>
+  <td>Springer (Q2)</td>
+  <td>ViT-CNN</td>
+  <td>99.27%</td>
+  <td>✅</td>
+ </tr>
+ <tr>
+  <td>4</td>
+  <td>Zhang</td>
+  <td>2024</td>
+  <td>Elsevier (Q1)</td>
+  <td>EEG+SVM</td>
+  <td>92.0%</td>
+  <td>✅</td>
+ </tr>
+ <tr>
+  <td>5</td>
+  <td>Lee</td>
+  <td>2025</td>
+  <td>MDPI Sensors (Q1)</td>
+  <td>Multimodal</td>
+  <td>98.0%</td>
+  <td>✅</td>
+ </tr>
+ <tr>
+  <td>6</td>
+  <td>Das</td>
+  <td>2024</td>
+  <td>MDPI Info (Q2)</td>
+  <td>U-Net+IoT</td>
+  <td>97.5%</td>
+  <td>✅</td>
+ </tr>
+ <tr>
+  <td>7</td>
+  <td>Safarov</td>
+  <td>2023</td>
+  <td>MDPI Sensors (Q1)</td>
+  <td>Eye-Blink</td>
+  <td>96.8%</td>
+  <td>✅</td>
+ </tr>
+ <tr>
+  <td>8</td>
+  <td>Gender-Aware</td>
+  <td>2026</td>
+  <td>MDPI (Q2)</td>
+  <td>SWT-DD-3S</td>
+  <td>95.47%</td>
+  <td>✅</td>
+ </tr>
+ <tr>
+  <td>9</td>
+  <td>Ersoy</td>
+  <td>2026</td>
+  <td>arXiv</td>
+  <td>Personalized</td>
+  <td>99.1%</td>
+  <td>✅</td>
+ </tr>
+ <tr>
+  <td>10</td>
+  <td>Chen</td>
+  <td>2025</td>
+  <td>IEEE TVT (Q1)</td>
+  <td>CNN-LSTM</td>
+  <td>96.5%</td>
+  <td>✅</td>
+ </tr>
+</table>
+</body>
+</html>
