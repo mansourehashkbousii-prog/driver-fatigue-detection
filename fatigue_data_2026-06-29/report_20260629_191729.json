@@ -1,0 +1,11 @@
+{
+  "session_id": "20260629_191729",
+  "date": "2026-06-29 19:17:50",
+  "duration_seconds": 0.9333333333333333,
+  "mean_ear": 0.3641809425672794,
+  "std_ear": 0.021711413359527497,
+  "mean_mar": 2.4435120307973333,
+  "awake_percentage": 0.0,
+  "drowsy_percentage": 100.0,
+  "sleep_percentage": 0.0
+}
